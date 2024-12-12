@@ -14,12 +14,14 @@ An RFC is a proposal for a substantial alteration or addition to our technical d
 
 ## Directory Structure
 
+```
 rfcs/
 ├─ README.md // This file, explaining the RFC process 
 ├─ CONTRIBUTING.md // Guidelines for proposing and reviewing RFCs 
 ├─ text/ // Finalized (accepted) RFCs 
 ├─ drafts/ // (Optional) Under-review or draft RFCs 
 └─ 0000-template.md // RFC template for new proposals
+```
 
 
 - **`text/`**: Contains all accepted RFCs, each assigned a unique number and descriptive name, e.g., `0001-improve-build-system.md`.
