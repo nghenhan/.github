@@ -6,10 +6,11 @@ Hedge Foundation is an all-in-one platform designed for traders, currently focus
 ## Quick Links
 - 🌐 Website: [https://hedge.foundation/](https://hedge.foundation/)
 - 🐛 Technical Issues: [Technical Issues Report](https://github.com/nghenhan/.github/blob/main/tech-issues/TECHNICAL_ISSUES.md)
+- 📝 RFCs: [Request for Comments](https://github.com/nghenhan/.github/tree/main/rfcs)
 
 ## What We Do
 - Trading Platform
-- Fund Management
+- Funds Management
 
 ---
 
